@@ -1,3 +1,2 @@
-curso de git
- por
- 
+git add tambien sirve para actulizar
+git commit es para guardar la foto del cambio
