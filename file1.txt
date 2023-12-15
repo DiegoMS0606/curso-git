@@ -1,1 +1,6 @@
-cambios
+Hola mundo
+
+git status sirve para darnos el estado de los archivos
+git add sirve para commitear los archivos
+
+git rm --catched nameArchivo, sirve para quitar los archivos
